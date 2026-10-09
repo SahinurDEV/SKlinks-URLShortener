@@ -21,7 +21,7 @@ Visit https://sklinks.herokuapp.com/
 ## Installation
 ```
 
-    1. git clone https://github.com/devSahinur/SKlinks-URLShortener.git
+    1. git clone https://github.com/SahinurDEV/SKlinks-URLShortener.git
     2. cd SKlinks-URLShortener
     3. Create your own .env for MONGOLAB_URI (Ex. MONGOLAB_URI=YOUR-MONGO-API-KEY_)
     4. npm install
